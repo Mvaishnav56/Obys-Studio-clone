@@ -30,14 +30,14 @@ obys-agency-clone/
 ## 🔧 Installation & Usage
 Clone the repository:
 
-bash
-Copy code
+```bash
 git clone https://github.com/yourusername/obys-agency-clone.git
 Navigate to the project directory:
+```
 
-bash
-Copy code
+```bash
 cd obys-agency-clone
+```
 Open the index.html file in your preferred browser to view the project.
 
 Start developing by modifying the existing code or adding new features.
