@@ -19,7 +19,6 @@ This project aims to replicate the stunning design of Obys Agency's website, enh
 ├── index.html
 ├── style.css
 ├── script.js
-├── gsap-animations.js
 └── assets/
     ├── images/
     └── fonts/
