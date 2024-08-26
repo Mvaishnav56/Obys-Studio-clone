@@ -63,4 +63,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## ✍️ Author
 
-- **Mohit Vaishnav** - [GitHub](https://github.com/yourusername) | [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/)
+- **Mohit Vaishnav** - <a href = "https://github.com/Mvaishnav56">GitHub</a> | <a href = "https://www.linkedin.com/in/mohit-vaishnav-50682428b/">Linkedin</a>
