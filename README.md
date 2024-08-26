@@ -58,4 +58,4 @@ Enhancements in animation for improved performance and user experience.
 Contributions are always welcome! Feel free to fork this repository and submit pull requests.
 
 ## ✍️ Author
-<div> <strong>Mohit Vaishnav</strong> <br> <a href="https://github.com/Mvaishnav56">GitHub</a> | <a href="https://www.linkedin.com/in/mohit-vaishnav-50682428b/">LinkedIn</a> </div> ```
+<div> <strong>Mohit Vaishnav</strong> <br> <a href="https://github.com/Mvaishnav56">GitHub</a> | <a href="https://www.linkedin.com/in/mohit-vaishnav-50682428b/">LinkedIn</a> </div> 
