@@ -43,10 +43,10 @@ Open the index.html file in your preferred browser to view the project.
 Start developing by modifying the existing code or adding new features.
 
 ## 💻 Technologies Used
-HTML5: Provides the semantic structure of the website.
-CSS3: Handles the styling, layout, and responsiveness of the site.
-JavaScript: Controls the interactivity and dynamic behavior of the content.
-GSAP (GreenSock Animation Platform): Powers the advanced animation techniques used throughout the website.
+- HTML5: Provides the semantic structure of the website.
+- CSS3: Handles the styling, layout, and responsiveness of the site.
+- JavaScript: Controls the interactivity and dynamic behavior of the content.
+- GSAP (GreenSock Animation Platform): Powers the advanced animation techniques used throughout the website.
 ## ✨ Live Demo
 Coming Soon...
 
