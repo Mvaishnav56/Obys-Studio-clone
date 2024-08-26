@@ -26,7 +26,7 @@ obys-agency-clone/
 │   ├── fonts/
 │   ├── ...
 └── README.md
-
+```
 ## 🔧 Installation & Usage
 Clone the repository:
 
