@@ -19,16 +19,15 @@ This project aims to replicate the stunning design of the Obys Agency website, e
 obys-agency-clone/
 │
 ├── index.html
-├── css/
-│   ├── styles.css
-├── js/
-│   ├── app.js
+├── styles.css
+├── main.js
 ├── assets/
 │   ├── images/
 │   ├── fonts/
 │   ├── ...
 └── README.md
-🔧 Installation & Usage
+
+## 🔧 Installation & Usage
 Clone the repository:
 
 bash
@@ -43,20 +42,20 @@ Open the index.html file in your preferred browser to view the project.
 
 Start developing by modifying the existing code or adding new features.
 
-💻 Technologies Used
+## 💻 Technologies Used
 HTML5: Provides the semantic structure of the website.
 CSS3: Handles the styling, layout, and responsiveness of the site.
 JavaScript: Controls the interactivity and dynamic behavior of the content.
 GSAP (GreenSock Animation Platform): Powers the advanced animation techniques used throughout the website.
-✨ Live Demo
+## ✨ Live Demo
 Coming Soon...
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 Addition of more pages and sections to fully replicate the original website.
 Further optimization for mobile devices.
 Enhancements in animation for improved performance and user experience.
-🛠️ Contributions
+## 🛠️ Contributions
 Contributions are always welcome! Feel free to fork this repository and submit pull requests.
 
-✍️ Author
+## ✍️ Author
 <div> <strong>Mohit Vaishnav</strong> <br> <a href="https://github.com/Mvaishnav56">GitHub</a> | <a href="https://www.linkedin.com/in/mohit-vaishnav-50682428b/">LinkedIn</a> </div> ```
